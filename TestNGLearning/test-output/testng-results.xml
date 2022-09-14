@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="9" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-29T19:16:14 CEST" name="Karza" finished-at="2022-08-29T19:16:15 CEST" duration-ms="529">
+    <groups>
+    </groups>
+    <test started-at="2022-08-29T19:16:14 CEST" name="Personal Loan" finished-at="2022-08-29T19:16:15 CEST" duration-ms="237">
+      <class name="TestPackage.Day2">
+        <test-method signature="Ploan()[pri:0, instance:TestPackage.Day2@43301423]" started-at="2022-08-29T19:16:15 CEST" name="Ploan" finished-at="2022-08-29T19:16:15 CEST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ploan -->
+      </class> <!-- TestPackage.Day2 -->
+      <class name="TestPackage.Day4">
+        <test-method signature="LoginAPIHOMELoan()[pri:0, instance:TestPackage.Day4@2f112965]" started-at="2022-08-29T19:16:15 CEST" name="LoginAPIHOMELoan" finished-at="2022-08-29T19:16:15 CEST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAPIHOMELoan -->
+        <test-method signature="MobileLoginHOMELoan()[pri:0, instance:TestPackage.Day4@2f112965]" started-at="2022-08-29T19:16:15 CEST" name="MobileLoginHOMELoan" finished-at="2022-08-29T19:16:15 CEST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLoginHOMELoan -->
+        <test-method signature="WebloginHOMELoan()[pri:0, instance:TestPackage.Day4@2f112965]" started-at="2022-08-29T19:16:15 CEST" name="WebloginHOMELoan" finished-at="2022-08-29T19:16:15 CEST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebloginHOMELoan -->
+      </class> <!-- TestPackage.Day4 -->
+      <class name="TestPackage.Day1">
+        <test-method signature="Demo()[pri:0, instance:TestPackage.Day1@15b204a1]" started-at="2022-08-29T19:16:15 CEST" name="Demo" finished-at="2022-08-29T19:16:15 CEST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method signature="Demo2()[pri:0, instance:TestPackage.Day1@15b204a1]" started-at="2022-08-29T19:16:15 CEST" name="Demo2" finished-at="2022-08-29T19:16:15 CEST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+      </class> <!-- TestPackage.Day1 -->
+    </test> <!-- Personal Loan -->
+    <test started-at="2022-08-29T19:16:15 CEST" name="CAR Loan" finished-at="2022-08-29T19:16:15 CEST" duration-ms="12">
+      <class name="TestPackage.Day3">
+        <test-method signature="MobileLogincarLoan()[pri:0, instance:TestPackage.Day3@49d904ec]" started-at="2022-08-29T19:16:15 CEST" name="MobileLogincarLoan" finished-at="2022-08-29T19:16:15 CEST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLogincarLoan -->
+      </class> <!-- TestPackage.Day3 -->
+    </test> <!-- CAR Loan -->
+  </suite> <!-- Karza -->
+</testng-results>
